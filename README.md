@@ -1,0 +1,2 @@
+# Coresynch
+Proyek UAS
